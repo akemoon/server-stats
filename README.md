@@ -7,7 +7,7 @@ A script to analyse basic linux server performance stats. The project idea is ta
 1. Clone the repository.
    
    ```sh
-   git clone https://github.com/rookieYo12/server-stats.git
+   git clone https://github.com/akemoon/server-stats.git
    cd server-stats
    ```
 
